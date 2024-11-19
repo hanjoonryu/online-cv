@@ -8,8 +8,11 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Hanjoon Ryu
-    tagline: PhD Candidate in Economics \n Duke University
+    name: Hanjoon Ryu (page incomplete)
+    tagline: |
+    PhD Candidate in Economics  
+    Duke University
+
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
