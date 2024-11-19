@@ -9,10 +9,7 @@ sidebar:
 
     # Profile information
     name: Hanjoon Ryu (page incomplete)
-    tagline: |
-    PhD Candidate in Economics  
-    Duke University
-
+    tagline: PhD Candidate in Economics <br/> Duke University
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
