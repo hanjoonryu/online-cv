@@ -8,7 +8,7 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Hanjoon Ryu
+    name: Hanjoon Ryu (page incomplete)
     tagline: PhD Candidate in Economics <br/> Duke University
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -29,7 +29,7 @@ sidebar:
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    resume: 'https://www.dropbox.com/scl/fi/07s3jkjmmtgdsa81cgmso/CV-Hanjoon-Ryu.pdf?rlkey=2n6kblmtr8g06rlmsaque2l8s&dl=0' # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: 'https://www.dropbox.com/scl/fi/07s3jkjmmtgdsa81cgmso/CV-Hanjoon-Ryu.pdf?rlkey=2n6kblmtr8g06rlmsaque2l8s&dl=0' # Path to the CV PDF
 
     # languages:
     #   title: Languages
@@ -49,6 +49,9 @@ sidebar:
         - item: Macro finance
         - item: Corporate finance
         - item: Firm heterogeneity
+
+about_me:
+  content: "I am a PhD candidate in Economics at Duke University. I work in topics related to corporate and macro finance."
 
 career-profile:
     title: Career Profile
