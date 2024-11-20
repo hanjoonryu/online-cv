@@ -29,7 +29,7 @@ sidebar:
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: 'https://www.dropbox.com/scl/fi/07s3jkjmmtgdsa81cgmso/CV-Hanjoon-Ryu.pdf?rlkey=2n6kblmtr8g06rlmsaque2l8s&dl=0' # Add a PDF link here if you want to include a PDF custom version in your resume.
+    cv: 'https://www.dropbox.com/scl/fi/07s3jkjmmtgdsa81cgmso/CV-Hanjoon-Ryu.pdf?rlkey=2n6kblmtr8g06rlmsaque2l8s&dl=0' # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     # languages:
     #   title: Languages
