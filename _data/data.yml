@@ -3,9 +3,9 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Hanjoon Ryu
@@ -13,7 +13,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hanjoon.ryu@duke.edu
+    # email: hanjoon.ryu@duke.edu
     # citizenship: South Korea
     website: https://hanjoonryu.com/ # Include the full website URL, including "http://" or "https://".
     linkedin: hanjoon-ryu-792a5234
@@ -22,7 +22,7 @@ sidebar:
     # telegram: # add your nickname without '@' sign
     # gitlab:
     # bitbucket:
-    twitter: '@HanjoonRyu'
+    twitter: 'HanjoonRyu'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
