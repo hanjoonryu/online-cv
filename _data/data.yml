@@ -13,7 +13,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    # email: hanjoon.ryu@duke.edu
+    email: hanjoon.ryu@duke.edu
     # citizenship: South Korea
     website: https://hanjoonryu.com/ # Include the full website URL, including "http://" or "https://".
     linkedin: hanjoon-ryu-792a5234
