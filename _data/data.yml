@@ -252,5 +252,11 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+working_papers:
+  - title: "Dilutive Financing"
+    summary: "Abstract"
+    pdf: 'https://www.dropbox.com/scl/fi/wmsmkcc00n7xvxkrhsw37/Dilutive_Financing_Ryu.pdf?rlkey=51eo492yauw7sumwn0s5m8i5b&st=mhh8dveg&dl=0'  # Path to the PDF
+    Presentation: "Somewhere"
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
